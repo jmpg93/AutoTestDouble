@@ -1,0 +1,6 @@
+sources:
+- ../Sources/Input --output
+templates:
+- ../Sources/Templates
+output:
+../Sources/Output
