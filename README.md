@@ -9,19 +9,27 @@ Every generated class will be available in the Output folder.
 
 ### 1. Install sourcery using brew through terminal:
 
-*brew install sourcery*
+```
+brew install sourcery
+```
 
 ### 2. Clone the repo.
 
-*git clone https://github.com/jmpg93/AutoTestDouble.git*
+```
+git clone https://github.com/jmpg93/AutoTestDouble.git
+```
 
 ### 2. Move to the resources folder.
 
-*cd AutoTestDouble/AutoTestDouble.playground/Resources/*
+```
+cd AutoTestDouble/AutoTestDouble.playground/Resources/
+```
 
 ### 3. Execute the watch.sh script:
 
-*./watch.sh*
+```
+./watch.sh
+```
 
 ### 4. Done! For every file saved a new version of generated code will be available.
 
