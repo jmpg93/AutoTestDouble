@@ -33,4 +33,5 @@ cd AutoTestDouble/AutoTestDouble.playground/Resources/
 
 ### 5. Done! 
 Open the playground and play. Save the to see the generated code.
+Use assistant editor on right for extra fun.
 
