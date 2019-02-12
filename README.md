@@ -19,17 +19,17 @@ brew install sourcery
 git clone https://github.com/jmpg93/AutoTestDouble.git
 ```
 
-### 2. Move to the resources folder.
+### 3. Move to the resources folder.
 
 ```
 cd AutoTestDouble/AutoTestDouble.playground/Resources/
 ```
 
-### 3. Execute the watch.sh script:
+### 4. Execute the watch.sh script:
 
 ```
 ./watch.sh
 ```
 
-### 4. Done! For every file saved a new version of generated code will be available.
+### 5. Done! For every file saved a new version of generated code will be available.
 
