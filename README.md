@@ -2,7 +2,7 @@
 
 This is a playground to generate tests doubles for protocols.
 
-Add files to the Input folder or Input.swift file to generate test doubles of those classes.
+Add files to the Input folder or Input.swift file to generate test doubles of those protocols.
 Every generated class will be available in the Output folder.
 
 ## How to start?
