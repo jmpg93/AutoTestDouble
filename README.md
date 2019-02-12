@@ -13,13 +13,13 @@ Every generated class will be available in the Output folder.
 brew install sourcery
 ```
 
-### 2. Clone the repo.
+### 2. Clone the repo:
 
 ```
 git clone https://github.com/jmpg93/AutoTestDouble.git
 ```
 
-### 3. Move to the resources folder.
+### 3. Move to the resources folder:
 
 ```
 cd AutoTestDouble/AutoTestDouble.playground/Resources/
