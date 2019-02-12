@@ -31,5 +31,6 @@ cd AutoTestDouble/AutoTestDouble.playground/Resources/
 ./watch.sh
 ```
 
-### 5. Done! For every file saved a new version of generated code will be available.
+### 5. Done! 
+Open the playground and play. Save the to see the generated code.
 
